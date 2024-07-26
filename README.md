@@ -14,7 +14,6 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dat
 - Implementation of multiple machine learning models:
   - Logistic Regression
   - K-Nearest Neighbors (KNN)
-  - Support Vector Machine (SVM)
   - Decision Tree
   - Random Forest
 - Model performance comparison and evaluation
